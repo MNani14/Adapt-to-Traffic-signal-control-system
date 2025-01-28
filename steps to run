@@ -1,0 +1,38 @@
+How to Run the Program
+Follow these steps to run the Adaptive Traffic Signal Control System on your local machine:
+
+Prerequisites
+A modern web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge).
+A code editor (e.g., Visual Studio Code) if you want to edit the code.
+Basic knowledge of HTML, CSS, and JavaScript (optional, for customization).
+Steps to Run
+1. Clone or Download the Repository
+Clone the repository using Git:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/adaptive-traffic-signal.git
+or download the ZIP file from GitHub and extract it to your desired directory.
+2. Navigate to the Project Directory
+Go to the project folder:
+
+bash
+Copy
+Edit
+cd adaptive-traffic-signal
+3. Open the index.html File
+Locate the index.html file in the project folder.
+
+Double-click the file to open it in your default browser.
+
+Alternatively, you can use a code editor:
+
+Open the folder in Visual Studio Code.
+Install the Live Server extension.
+Right-click on the index.html file and select Open with Live Server.
+4. Interact with the Application
+Drag and drop video files into the upload containers or use the file input buttons to upload videos.
+Click the Analyze Traffic button to trigger further actions (future development).
+Notes:
+This project is currently frontend-only. Traffic analysis is a placeholder for future enhancements.
+For advanced features (e.g., video processing or backend functionality), you may need to set up a server and integrate AI/ML models.
