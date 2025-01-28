@@ -9,19 +9,12 @@ Basic knowledge of HTML, CSS, and JavaScript (optional, for customization).
 Steps to Run:
 1. Clone or Download the Repository
 Clone the repository using Git:
-bash
-Copy
-Edit
      git clone https://github.com/your-username/adaptive-traffic-signal.git
 or download the ZIP file from GitHub and extract it to your desired directory.
 
 2. Navigate to the Project Directory
 Go to the project folder:
-
-bash
-Copy
-Edit
-cd adaptive-traffic-signal
+      cd adaptive-traffic-signal
 
 3. Open the index.html File
 Locate the index.html file in the project folder.
