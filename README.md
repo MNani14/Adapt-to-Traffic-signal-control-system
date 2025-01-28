@@ -20,6 +20,20 @@ This project implements an **Adaptive Traffic Signal Control System** designed t
 
 - **Backend (Optional for Future Enhancements):**
   - A backend system (e.g., Node.js, Python Flask/Django) to handle video uploads and traffic analysis.
+ 
+- Future Enhancements
+Traffic Analysis Algorithm:
+
+Implement AI/ML models to analyze uploaded videos and adapt traffic signals dynamically.
+Backend Integration:
+
+Store uploaded videos and retrieve processed results.
+Data Visualization:
+
+Display analysis results in graphical formats (charts, heatmaps, etc.).
+Real-Time Monitoring:
+
+Enable live video feed and real-time traffic signal adjustments.
 
 
 
