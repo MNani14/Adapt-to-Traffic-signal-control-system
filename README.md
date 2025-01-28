@@ -21,5 +21,5 @@ This project implements an **Adaptive Traffic Signal Control System** designed t
 - **Backend (Optional for Future Enhancements):**
   - A backend system (e.g., Node.js, Python Flask/Django) to handle video uploads and traffic analysis.
 
-## Project Structure
+
 
