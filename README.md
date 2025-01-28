@@ -1,4 +1,4 @@
-# Adaptive-Traffic-signal-control-system
+
 # Adaptive Traffic Signal Control System
 
 This project implements an **Adaptive Traffic Signal Control System** designed to improve traffic flow and reduce congestion in urban areas. The system enables users to upload traffic footage, analyze it, and make informed decisions to adapt traffic signal timings dynamically.
